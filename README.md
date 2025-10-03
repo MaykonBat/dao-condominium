@@ -57,4 +57,4 @@ This project demonstrates practical Web3 adoption for real-world use cases like 
 
 ---
 
-*Project developed as part of the WEB23 course by @luiztools.*
+## *Project developed as part of the WEB23 course by @luiztools.*
